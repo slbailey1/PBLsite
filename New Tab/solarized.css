@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'terminus';
+	src: URL('TerminusTTF-4.47.0.ttf') format('truetype');
+}
+
+div#wrapper {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+body {
+	background-color: #002b36;
+	color: #657b83;
+	font-family: terminus;
+}
+.bigtitle {
+	color: #586e75;
+	font-size: 2.5em;
+}
+
+.item1 {
+	color: #b58900;
+	font-size: 1.33em;
+}
+.item2 {
+	color: #cb4b16;
+	font-size: 1.33em;
+}
+.item3 {
+	color: #dc322f;
+	font-size: 1.33em;
+}
+.item4 {
+	color: #d33682;
+	font-size: 1.33em;
+}
+.item5 {
+	color: #6c71c4;
+	font-size: 1.33em;
+}
+.item6 {
+	color: #268bd2;
+	font-size: 1.33em;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
