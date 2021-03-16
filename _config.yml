@@ -2,3 +2,6 @@ theme: jekyll-theme-midnight
 title: PBL Project
 description: '[Name], [Name], and [Name]'
 show_downloads: true
+github:
+  zip_url: https://slbailey1.github.io/PBLsite2/
+  tar_url: https://slbailey1.github.io/PBLsite/
