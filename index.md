@@ -10,10 +10,10 @@ A GMO (Genetically Modified Organism) is an organism that was modified through t
 
 GMOs are made in 4 steps, remembered as DRIP:
 
-* **Determine** : Scientists determine which gene should be put in the organism.
-* **Replicate** : Scientists replicate the aformentioned gene.
-* **Infix** : The scientists infix (put in) the gene into the DNA of th eplant.
-* **Pullulate** : The scientists pullulate (grow) the plant and test it in both small and large fields before selling the new organism to farmers.
+* __Determine__ : Scientists determine which gene should be put in the organism.
+* __Replicate__ : Scientists replicate the aformentioned gene.
+* __Infix__ : The scientists infix (put in) the gene into the DNA of th eplant.
+* __Pullulate__ : The scientists pullulate (grow) the plant and test it in both small and large fields before selling the new organism to farmers.
 
 ### Should the public use and consume GMOs?
 
