@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## This is the project title
 
-You can use the [editor on GitHub](https://github.com/slbailey1/PBLsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is a brief description of the project. What we will do, what questions we will ask, etc etc. As of writing this I am not entirely sure what I am supposed to be answering because I am writing this without the handy little spreadsheet for all the questions. I cannot come up with any questions on my own, I am but a lowly script kiddie.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question
 
-### Markdown
+This is an answer. As I have said previously, I do not know what questions I need to be asking. This is simply filler text.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## I need this for reference because I don't remember how to use markdown.
 ```markdown
 Syntax highlighted code block
 
@@ -25,13 +24,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slbailey1/PBLsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
