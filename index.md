@@ -4,11 +4,16 @@ Here is a brief description of the project. What we will do, what questions we w
 
 ### What is a GMO?
 
-This will be the text explaining what a GMO is.
+A GMO (Genetically Modified Organism) is an organism that was modified through technology and engineering. They do this by changing the organism's original DNA. Most GMOs (and the ones at the forefront of the GMO debate) are created from plants.
 
 ### How are GMOs made?
 
-This will be the text explaining how GMOs are made.
+GMOs are made in 4 steps, remembered as DRIP:
+
+* Determine : Scientists determine which gene should be put in the organism.
+* Replicate : Scientists replicate the aformentioned gene.
+* Infix : The scientists infix (put in) the gene into the DNA of th eplant.
+* Pullulate : The scientists pullulate (grow) the plant and test it in both small and large fields before selling the new organism to farmers.
 
 ### Should the public use and consume GMOs?
 
