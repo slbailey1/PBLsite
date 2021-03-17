@@ -1,4 +1,3 @@
-## All About GMOs
 Genetically Modified Organisms (GMOs) have been the topic of ongoing contentious debates. However, not many people truly know what GMOs are, or what they do. 
 
 ![GMOs](gmos.jpeg)
