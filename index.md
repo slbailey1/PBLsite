@@ -24,7 +24,11 @@ GMOs are very safe, they are tested before public consumption. As well as this, 
 #### Sources
 
 [Non GMO Project - What is a GMO?](https://www.nongmoproject.org/gmo-facts/what-is-gmo/)
+
 [FDA - How are GMOs Made](https://www.fda.gov/media/135277/download)
+
 [National Geographic - Scientists Say GMO Foods Are Safe, Public Skepticism Remains](https://tinyurl.com/yzalp8ek)
+
 [MedlinePlus](https://tinyurl.com/yepuqzx3)
+
 [ISAAA - GM Crops and the Environment](https://tinyurl.com/ydjbtoqq)
