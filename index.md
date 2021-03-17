@@ -32,3 +32,7 @@ GMOs are very safe, they are tested before public consumption. As well as this, 
 [MedlinePlus](https://tinyurl.com/yepuqzx3)
 
 [ISAAA - GM Crops and the Environment](https://tinyurl.com/ydjbtoqq)
+
+
+
+![VID](samplevid.mp4)
