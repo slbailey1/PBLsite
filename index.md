@@ -18,11 +18,13 @@ GMOs are made in 4 steps, remembered as DRIP:
 
 ### Should the public use and consume GMOs?
 
-This will explain why the public should use and comsume GMOs.
+GMOs are very safe, they are tested before public consumption. As well as this, genetic engineering is important for crop development, shielding crops from pets and other things that could harm their growth, and has helped large scale farmers economically. Overall, GMOs are purely beneficial to use and consume.
 
 
 #### Sources
 
-[source 1](www.source.com)
-[source 2](www.source2.com)
-[source 3](www.source3.com)
+[Non GMO Project - What is a GMO?](https://www.nongmoproject.org/gmo-facts/what-is-gmo/)
+[FDA - How are GMOs Made](https://www.fda.gov/media/135277/download)
+[National Geographic - Scientists Say GMO Foods Are Safe, Public Skepticism Remains](https://tinyurl.com/yzalp8ek)
+[MedlinePlus](https://tinyurl.com/yepuqzx3)
+[ISAAA - GM Crops and the Environment](https://tinyurl.com/ydjbtoqq)
