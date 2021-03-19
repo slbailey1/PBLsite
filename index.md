@@ -19,6 +19,13 @@ GMOs are made in 4 steps, remembered as DRIP:
 
 GMOs are very safe, they are tested before public consumption. As well as this, genetic engineering is important for crop development, shielding crops from pets and other things that could harm their growth, and has helped large scale farmers economically. Overall, GMOs are purely beneficial to use and consume.
 
+## Video
+
+[![PBL Video](video.png)](https://drive.google.com/file/d/1EqEreYVmTbj_8jDGJoYpAUMfvxnc0Wvy/view)
+
+### Slides
+
+link
 
 #### Sources
 
