@@ -114,9 +114,13 @@ DNA can be changed through mutations. Though many are led to believe mutations a
 * __Duplication:__ Copies a piece of DNA one or more times.
 * __Frameshift:__ This mutation happens with an additon of loss of DNA that changes the genes reading frame. In a frameshift mutation, the way the genes are read can change because of a difference of grouping. For example, UCA CAG GCC mutates into CAC AGG CCU.
 
+### The Ethics of DNA Technology
+
+DNA technology gets a lot of arguments hurled against it. One of the most common is genetic modification would only be available for the wealthy. Genetic engineering is currently very expensive, and it's naive to assume the wealthy would not do everything in their power to make themselves superior to those who do not have access to new technology. DNA technology can accidentally create a strain of human superior to the "natural" ones in virtually every way. This could lead to greatened discrimination as well as grow the divide between classes. As well as this, another question is brought up when discussing DNA technology: can children "consent" to having their genes manipulated? Should it be the parents decision to make their children artificially taller, or something of the like? It can be assumed that many children would not like the changes brought about by genetic manipulation. Some employ the same train of thought as those who think children should stay on puberty blockers until they're old enough to decide if they want to keep their assigned gender. Overall, there are many implications involved in DNA technology, and it's not always as simple as it may seem.
+
 ## Video
 
-[![PBL Video](video.png)](https://drive.google.com/file/d/1EqEreYVmTbj_8jDGJoYpAUMfvxnc0Wvy/view)
+[![PBL Video](video.png)](https://drive.google.com/file/d/1LSstCChZ56SlyylCIwMRjobSaZGWIjGz/view?usp=sharing)
 
 ## Slides
 
