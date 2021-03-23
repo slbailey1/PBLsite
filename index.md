@@ -75,14 +75,14 @@ DNA copies one strand of itself to RNA, called transcription. The ribosome trans
 ### Protein Synthesis
 
 Protein Synthesis is the process of which cells produce proteins. 
-1. Transcription of mRNA.
-  1. Created from nucleus from DNA. The RNA will move from the nucleus to the cytoplasm in order to begin the next step. All parts are produced in the ribosomes prior to the migration.
-2. Protein synthesis starts.
-  1. tRNA starts the synthesis by moving towards the mRNA. The "code" is put in place and the peptide is ready to start growing.
-3. The peptide grows.
-  1. The peptide grows longer as tRNA reads and correctly matches nitrogen bases. 
-4. The process ends.
-  1. A stop signal is reached and the process is terminated. The chain leaves the ribosome, and the ribosome is ready to repeat the process.
+__1.__ Transcription of mRNA.
+  __1.__ Created from nucleus from DNA. The RNA will move from the nucleus to the cytoplasm in order to begin the next step. All parts are produced in the ribosomes prior to the migration.
+__2.__ Protein synthesis starts.
+  __1.__ tRNA starts the synthesis by moving towards the mRNA. The "code" is put in place and the peptide is ready to start growing.
+__3.__ The peptide grows.
+  __1.__ The peptide grows longer as tRNA reads and correctly matches nitrogen bases. 
+__4.__ The process ends.
+  __1.__ A stop signal is reached and the process is terminated. The chain leaves the ribosome, and the ribosome is ready to repeat the process.
 
 ### Codon chart
 
@@ -95,10 +95,11 @@ __However,__ when DNA bases are translated into mRNA:
 * Cytosine → Granine
 
 You can read a codon chart pretty easily by
-1. Decoding the DNA sequence
-2. Using the new code, look at the left column with the first letter, then the top row with the second letter. Look where these two rows and columns meet, and on the far right row, choose the final letter corresponding with the full 3 letters. 
+__1.__ Decoding the DNA sequence
+__2.__ Using the new code, look at the left column with the first letter, then the top row with the second letter. Look where these two rows and columns meet, and on the far right row, choose the final letter corresponding with the full 3 letters. 
 
 For example, if you had the translated code UCC UUG AGC, it would translate to leu leu asp.
+
 ![Codon Chart](codonchart.png)
 
 ## Video
