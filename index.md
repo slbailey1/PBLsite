@@ -50,6 +50,8 @@ __CONS:__
 * Researchers believe they may cause alergies
 * GMOs can harm the environment
 
+## All About DNA
+
 ### DNA, Proteins, and Amino Acids
 
 There are five nitrogen bases when creating nucleotides:
@@ -101,6 +103,16 @@ __2.__ Using the new code, look at the left column with the first letter, then t
 For example, if you had the translated code UCC UUG AGC, it would translate to leu leu asp.
 
 ![Codon Chart](codonchart.png)
+
+### Mutations
+
+DNA can be changed through mutations. Though many are led to believe mutations are harmful, most of them are not. They can change traits in a helpful way, it's even vital for evolution. There are 6 types of mutations:
+* __Silent:__ Silent mutations, like the name suggests, are silent. They do not change the amino acid in the protein. On a codon chart, this would be like going from UUU to UUC. 
+* __Missense:__ This mutation only changes one DNA pair and results in the substitution of one amino acid for another. 
+* __Nonsense:__ Only changes one base pair, however, instead of simply substituting amino acids, the entire DNA sequence is altered. This can lead to an misfunctional or entirely non functional protein.
+* __Insertion/Deletion:__ Changes the number of bases by adding or removing a piece of DNA.
+* __Duplication:__ Copies a piece of DNA one or more times.
+* __Frameshift:__ This mutation happens with an additon of loss of DNA that changes the genes reading frame. In a frameshift mutation, the way the genes are read can change because of a difference of grouping. For example, UCA CAG GCC mutates into CAC AGG CCU.
 
 ## Video
 
