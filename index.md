@@ -37,14 +37,14 @@ Some countries think the negative effects of GMOs outweight the positive ones. H
 
 Like all things in life, GMOs have both pros and cons.
 
-PROS:
+__PROS:__
 * Prevents pesticide usage
 * Makes crop production faster and easier
 * Almost always safe to consume
 * Can taste better and ease diets
 * Last longer without additives or preservatives
 
-CONS:
+__CONS:__
 * Some scientists think cancer may be of risk
 * GMOs are very expensive
 * Researchers believe they may cause alergies
