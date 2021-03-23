@@ -76,13 +76,13 @@ DNA copies one strand of itself to RNA, called transcription. The ribosome trans
 
 Protein Synthesis is the process of which cells produce proteins. 
 __1.__ Transcription of mRNA.
-  __1.__ Created from nucleus from DNA. The RNA will move from the nucleus to the cytoplasm in order to begin the next step. All parts are produced in the ribosomes prior to the migration.
+  __1.1__ Created from nucleus from DNA. The RNA will move from the nucleus to the cytoplasm in order to begin the next step. All parts are produced in the ribosomes prior to the migration.
 __2.__ Protein synthesis starts.
-  __1.__ tRNA starts the synthesis by moving towards the mRNA. The "code" is put in place and the peptide is ready to start growing.
+  __1.1__ tRNA starts the synthesis by moving towards the mRNA. The "code" is put in place and the peptide is ready to start growing.
 __3.__ The peptide grows.
-  __1.__ The peptide grows longer as tRNA reads and correctly matches nitrogen bases. 
+  __1.1__ The peptide grows longer as tRNA reads and correctly matches nitrogen bases. 
 __4.__ The process ends.
-  __1.__ A stop signal is reached and the process is terminated. The chain leaves the ribosome, and the ribosome is ready to repeat the process.
+  __1.1__ A stop signal is reached and the process is terminated. The chain leaves the ribosome, and the ribosome is ready to repeat the process.
 
 ### Codon chart
 
