@@ -64,6 +64,43 @@ These 5 bases create nucleic acids such as DNA and RNA. The bases pair up:
 * Guanine → Cytosine
 * __Pairing DNA with RNA:__ Adenine → Uracil
 
+### How DNA structure determines its function
+
+DNA is made up of two polymers in a double helix formation. These polymers are attached by nucleotides, which are two corresponding nitrogen bases brought together. These combinations can form genes, which determines the genetic information for cells. These genes are how DNA determines a cells function. 
+
+### How DNA and RNA code for proteins and determine traits
+
+DNA copies one strand of itself to RNA, called transcription. The ribosome transfers he RNA (tRNA) to the cytoplasm, which will bring the parts of the protein together. In the cytoplasm, chemical reactions take place in order to create proteins. This is called protein synthesis.
+
+### Protein Synthesis
+
+Protein Synthesis is the process of which cells produce proteins. 
+1. Transcription of mRNA.
+  1. Created from nucleus from DNA. The RNA will move from the nucleus to the cytoplasm in order to begin the next step. All parts are produced in the ribosomes prior to the migration.
+2. Protein synthesis starts.
+  1. tRNA starts the synthesis by moving towards the mRNA. The "code" is put in place and the peptide is ready to start growing.
+3. The peptide grows.
+  1. The peptide grows longer as tRNA reads and correctly matches nitrogen bases. 
+4. The process ends.
+  1. A stop signal is reached and the process is terminated. The chain leaves the ribosome, and the ribosome is ready to repeat the process.
+
+### Codon chart
+
+DNA bases match as:
+* Adenine → Thymine
+* Cytosine → Guanine
+
+__However,__ when DNA bases are translated into mRNA:
+* Adenine → *Uracil*
+* Cytosine → Granine
+
+You can read a codon chart pretty easily by
+1. Decoding the DNA sequence
+2. Using the new code, look at the left column with the first letter, then the top row with the second letter. Look where these two rows and columns meet, and on the far right row, choose the final letter corresponding with the full 3 letters. 
+
+For example, if you had the translated code UCC UUG AGC, it would translate to leu leu asp.
+[Codon Chart](codonchart.png)
+
 ## Video
 
 [![PBL Video](video.png)](https://drive.google.com/file/d/1EqEreYVmTbj_8jDGJoYpAUMfvxnc0Wvy/view)
@@ -84,3 +121,5 @@ Click the image.
 [MedlinePlus](https://tinyurl.com/yepuqzx3)
 
 [ISAAA - GM Crops and the Environment](https://tinyurl.com/ydjbtoqq)
+
+[Protein Synthesis](http://chemistry.elmhurst.edu/vchembook/584proteinsyn.html)
