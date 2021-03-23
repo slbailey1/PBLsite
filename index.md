@@ -99,7 +99,7 @@ You can read a codon chart pretty easily by
 2. Using the new code, look at the left column with the first letter, then the top row with the second letter. Look where these two rows and columns meet, and on the far right row, choose the final letter corresponding with the full 3 letters. 
 
 For example, if you had the translated code UCC UUG AGC, it would translate to leu leu asp.
-[Codon Chart](codonchart.png)
+![Codon Chart](codonchart.png)
 
 ## Video
 
