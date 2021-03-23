@@ -25,7 +25,8 @@ GMOs are very safe, they are tested before public consumption. As well as this, 
 
 ### Slides
 
-link
+Click the image.
+[![Slides](slides.png)](https://docs.google.com/presentation/d/1tRVSmO5iXRpANafPKLK1o5GPkpnlAE7uq8tYa4A-pMM/edit?usp=sharing)
 
 #### Sources
 
