@@ -25,7 +25,7 @@ Genetically Modified Organisms can be both good and bad. On one hand, GMOs can r
 
 ### What are some countries that have banned GMOs?
 
-Some countries think the negative effects of GMOs outweight the positive ones. Here are some countries that banned GMOs altogether:
+Some countries think the negative effects of GMOs outweigh the positive ones. Here are some countries that banned GMOs altogether:
 
 * France 
 * Germany
