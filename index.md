@@ -50,6 +50,20 @@ __CONS:__
 * Researchers believe they may cause alergies
 * GMOs can harm the environment
 
+### DNA, Proteins, and Amino Acids
+
+There are five nitrogen bases when creating nucleotides:
+* Adenine
+* Guanine
+* Thymine
+* Cytosine
+* Uracil
+
+These 5 bases create nucleic acids such as DNA and RNA. The bases pair up:
+* Adenine → Thymine
+* Guanine → Cytosine
+* __Pairing DNA with RNA:__ Adenine → Uracil
+
 ## Video
 
 [![PBL Video](video.png)](https://drive.google.com/file/d/1EqEreYVmTbj_8jDGJoYpAUMfvxnc0Wvy/view)
