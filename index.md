@@ -19,6 +19,36 @@ GMOs are made in 4 steps, remembered as DRIP:
 
 GMOs are very safe, they are tested before public consumption. As well as this, genetic engineering is important for crop development, shielding crops from pets and other things that could harm their growth, and has helped large scale farmers economically. Overall, GMOs are purely beneficial to use and consume.
 
+### Are GMOs bad for the environment? 
+
+Genetically Modified Organisms can be both good and bad. On one hand, GMOs can reduce the amount of pesticides used on crops, which will help the environment. However, on the other hand, GMOs also may unintentionally mix with other plants and create new types of plants. They can also cause harm to other animals and insects such as monarch butterfly larvae. GMOs' affects on the environment are monitored before they are released to the public, so their safety is usually guaranteed. 
+
+### What are some countries that have banned GMOs?
+
+Some countries think the negative effects of GMOs outweight the positive ones. Here are some countries that banned GMOs altogether:
+
+* France 
+* Germany
+* Austria
+* Greece
+* Hungary
+
+### Are GMOs good?
+
+Like all things in life, GMOs have both pros and cons.
+PROS:
+* Prevents pesticide usage
+* Makes crop production faster and easier
+* Almost always safe to consume
+* Can taste better and ease diets
+* Last longer without additives or preservatives
+
+CONS:
+* Some scientists think cancer may be of risk
+* GMOs are very expensive
+* Researchers believe they may cause alergies
+* GMOs can harm the environment
+
 ## Video
 
 [![PBL Video](video.png)](https://drive.google.com/file/d/1EqEreYVmTbj_8jDGJoYpAUMfvxnc0Wvy/view)
