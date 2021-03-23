@@ -36,6 +36,7 @@ Some countries think the negative effects of GMOs outweight the positive ones. H
 ### Are GMOs good?
 
 Like all things in life, GMOs have both pros and cons.
+
 PROS:
 * Prevents pesticide usage
 * Makes crop production faster and easier
